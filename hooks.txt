@@ -1,3 +1,0 @@
-#!/bin/bash
-git push
-curl --user "admin:redhat" http://192.168.43.151:8080//job/job1_task2/build?token=redhat
